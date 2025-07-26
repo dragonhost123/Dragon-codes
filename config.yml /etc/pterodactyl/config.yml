@@ -1,0 +1,4 @@
+panel:
+  url: http://localhost:3000
+  token_id: your-token-id
+  token: your-token
